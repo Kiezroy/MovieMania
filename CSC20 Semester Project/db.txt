@@ -1,0 +1,59 @@
+The Shawshank Redemption;Tim Robbins;Morgan Freeman;Frank Darabont;1994;144
+Avatar;Sam Worthington;Zoe Saldana;James Cameron;2009;162
+Avengers:Endgame;Robert Downey Jr;Chris Evans;Anthony Russo;2019;181
+Titanic;Leonardo DiCaprio;Kate Winslet;James Cameron;1997;195
+Star Wars:The Force Awakens;Harrison Ford;Mark Hamill;JJ Abrams;2015;138
+Avengers:Infinity War;Robert Downey Jr;Chris Hemsworth;Anthony Russo;2018;149
+Jurassic World;Chris Pratt;Omar Sy;Colin Trevorrow;2015;124
+The Lion King;Donald Glover;Seth Rogen;Jon Favreau;2019;118
+The Avengers;Robert Downey Jr;Chris Evans;Joss Whedon;2012;143
+Furious 7;Vin Diesel;Paul Walker;James Wan;2015;137
+Frozen II;Kristen Bell;Idina Menzel;Chris Buck;2019;104
+Avengers:Age of Ultron;Robert Downey Jr;Chris Hemsworth;Joss Whedon;2015;141
+Black Panther;Chadwick Boseman;Michael B Jordan;Ryan Coogler;2018;134
+Harry Potter and the Deathly Hallows - Part 2;Daniel Radcliffe;Emma Watson;David Yates;2011;130
+Star Wars:The Last Jedi;Mark Hamill;Carrie Fisher;Rian Johnson;2017;152
+Jurassic World:Fallen Kingdom;Chris Pratt;Ted Levine;JA Bayona;2018;128
+Frozen;Chris Buck;Kristen Bell;Idina Menzel;2013;102
+Beauty and the Beast;Emma Watson;Dan Stevens;Bill Condon;2017;130
+Incredibles 2;Craig T Nelson;Holly Hunter;Brad Bird;2018;120
+The Fate of the Furious;Vin Disel;Dwayne Johnson;F Gary Gary;2017;140
+Iron Man 3;Robert Downey Jr;Gwyneth Paltrow;Shane Black;2013;130
+Minions;Pierre Coffin;Sandra Bullock;Pierce Coffin;2015;90
+Captain America:Civil War;Chris Evans;Robert Downey Jr;Anthony Russo;2016;150
+Aquaman;Jason Momoa;Amber Heard;James Wan;2018;140
+The Lord of the Rings:The Return of the King;Elijah Wood;Ian McKellen;Peter Jackson;2003;200
+Spider-Man:Far From Home;Tom Holland;Samuel L Jackson;Jon Watts;2019;130
+Captain Marvel;Brie Larson;Samuel L Jackson;Anna Boden;2019;120
+Transformers:Dark of the Moon;Shia LaBeouf;Josh Duhamel;Michael Bay;2011;150
+Skyfall;Daniel Craig;Javier Bardem;Sam Mendes;2012;140
+Transformers:Age of Extinction;Lorenzo Di Bonaventura;Tom DeSanto;Michael Bay;2014;170
+The Dark Knight Rises;Christian Bale;Michael Caine;Christopher Nolan;2012;170
+Joker;Joaquin Phoenix;Robert De Niro;Todd Phillips;2019;120
+Star Wars:The Rise of Skywalker;Carrie Fisher;Mark Hamill;JJ Abrams;2019;140
+Toy Story 4;Tom Hanks;Tim Allen;Josh Cooley;2019;100
+Toy Story 3;Tom Hanks;Tim Allen;Lee Unkrich;2010;100
+Pirates of the Caribbean:Dead Man's Chest;Johnny Depp;Orlando Bloom;Gore Verbinski;2006;150
+Despicable Me 3;Steve Carell;Kristen Wiig;Pierre Coffin;2017;90
+Jurassic Park;Sam Neil;Laura Dern;Steven Spielberg;1993;130
+Finding Dory;Ellen DeGeneres;Albert Brooks;Andrew Stanton;2016;100
+Star Wars:Episode I - The Phantom Menace;Liam Neeson;Ewan McGregor;George Lucas;1999;130
+Alice in Wonderland;Johnny Depp;Anne Hathaway;Tim Burton;2010;110
+Zootopia;Ginnifer Goodwin;Jason Bateman;Byron Howard;2016;110
+The Hobbit:An Unexpected Journey;Ian McKellen;Martin Freeman;Peter Jackson;2012;170
+Harry Potter and the Philosopher's Stone;Daniel Radcliffe;Rupert Grint;Chris Columbus;2001;150
+The Dark Knight;Christian Bale;Michael Caine;Christopher Nolan;2008;150
+Harry Potter and the Deathly Hallows - Part 1;Daniel Radcliffe;Rupert Grint;David Yates;2010;150
+Despicable Me 2;Steve Carell;Kristen Wiig;Chris Renaud;2013;100
+The Lion King V2;Roger Allers;Brenda Chapman;Roger Allens;1994;90
+The Battle at Lake Changjin;Wu Jing;Jackson Yee;Chen Kaige;2021;180
+Godzilla vs Kong;Alexander Skarsgard;Mille Bobby Brown;Adam Wingard;2021;110
+F9:The Fast Saga;Vin Diesel;Michelle Rodriguez;Justin Lin;2021;140
+Black Widow;Scarlett Johansson;Florence Pugh;Cate Shortland;2021;130
+Dune;Timothee Chalamet;Rebecca Ferguson;Denis Villeneueve;2021;160
+Wonder Woman 1984;Gal Gadot;Chris Pine;Patty Jenkins;2020;150
+The Little Things;Denzel Washington;Rami Malek;John Lee Hancock;2021;130
+The Croods:A New Age;Nicolas Cage;Emma Stone;Joel Crawford;2020;100
+Finding Nemo;Ellen DeGeneres;Albert Brooks;Andrew Stanton;2003;100
+Phantom;Sky;N/A;Valorant;2020;69
+The Empty;N/A;N/A;N/A;0;0
